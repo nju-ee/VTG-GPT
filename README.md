@@ -2,7 +2,7 @@
 
 Please see https://github.com/YoucanBaby/VTG-GPT.
 
-[Paper](https://www.mdpi.com/2076-3417/14/5/1894)
+[Paper link](https://www.mdpi.com/2076-3417/14/5/1894)
 
 ```
 @article{xu2024vtg,
