@@ -2,6 +2,8 @@
 
 Please see https://github.com/YoucanBaby/VTG-GPT.
 
+[Paper](https://www.mdpi.com/2076-3417/14/5/1894)
+
 ```
 @article{xu2024vtg,
   title={VTG-GPT: Tuning-Free Zero-Shot Video Temporal Grounding with GPT},
